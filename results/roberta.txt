@@ -1,0 +1,608 @@
+threshold:  0.9
+Actual       0    1
+Predicted          
+False      843  846
+True         7    4
+accuracy: 0.49823529411764705
+threshold:  0.901
+Actual       0    1
+Predicted          
+False      843  846
+True         7    4
+accuracy: 0.49823529411764705
+threshold:  0.902
+Actual       0    1
+Predicted          
+False      842  846
+True         8    4
+accuracy: 0.4976470588235294
+threshold:  0.903
+Actual       0    1
+Predicted          
+False      841  846
+True         9    4
+accuracy: 0.4970588235294118
+threshold:  0.904
+Actual       0    1
+Predicted          
+False      841  845
+True         9    5
+accuracy: 0.4976470588235294
+threshold:  0.905
+Actual       0    1
+Predicted          
+False      841  845
+True         9    5
+accuracy: 0.4976470588235294
+threshold:  0.906
+Actual       0    1
+Predicted          
+False      839  845
+True        11    5
+accuracy: 0.4964705882352941
+threshold:  0.907
+Actual       0    1
+Predicted          
+False      837  845
+True        13    5
+accuracy: 0.49529411764705883
+threshold:  0.908
+Actual       0    1
+Predicted          
+False      837  845
+True        13    5
+accuracy: 0.49529411764705883
+threshold:  0.909
+Actual       0    1
+Predicted          
+False      837  844
+True        13    6
+accuracy: 0.4958823529411765
+threshold:  0.91
+Actual       0    1
+Predicted          
+False      835  844
+True        15    6
+accuracy: 0.49470588235294116
+threshold:  0.911
+Actual       0    1
+Predicted          
+False      834  844
+True        16    6
+accuracy: 0.49411764705882355
+threshold:  0.912
+Actual       0    1
+Predicted          
+False      832  844
+True        18    6
+accuracy: 0.4929411764705882
+threshold:  0.913
+Actual       0    1
+Predicted          
+False      829  844
+True        21    6
+accuracy: 0.49117647058823527
+threshold:  0.914
+Actual       0    1
+Predicted          
+False      826  844
+True        24    6
+accuracy: 0.4894117647058824
+threshold:  0.915
+Actual       0    1
+Predicted          
+False      823  843
+True        27    7
+accuracy: 0.48823529411764705
+threshold:  0.916
+Actual       0    1
+Predicted          
+False      822  843
+True        28    7
+accuracy: 0.48764705882352943
+threshold:  0.917
+Actual       0    1
+Predicted          
+False      819  843
+True        31    7
+accuracy: 0.4858823529411765
+threshold:  0.918
+Actual       0    1
+Predicted          
+False      817  841
+True        33    9
+accuracy: 0.4858823529411765
+threshold:  0.919
+Actual       0    1
+Predicted          
+False      816  840
+True        34   10
+accuracy: 0.4858823529411765
+threshold:  0.92
+Actual       0    1
+Predicted          
+False      816  839
+True        34   11
+accuracy: 0.4864705882352941
+threshold:  0.921
+Actual       0    1
+Predicted          
+False      815  838
+True        35   12
+accuracy: 0.4864705882352941
+threshold:  0.922
+Actual       0    1
+Predicted          
+False      812  838
+True        38   12
+accuracy: 0.48470588235294115
+threshold:  0.923
+Actual       0    1
+Predicted          
+False      810  838
+True        40   12
+accuracy: 0.4835294117647059
+threshold:  0.924
+Actual       0    1
+Predicted          
+False      810  838
+True        40   12
+accuracy: 0.4835294117647059
+threshold:  0.925
+Actual       0    1
+Predicted          
+False      808  835
+True        42   15
+accuracy: 0.48411764705882354
+threshold:  0.926
+Actual       0    1
+Predicted          
+False      805  832
+True        45   18
+accuracy: 0.48411764705882354
+threshold:  0.927
+Actual       0    1
+Predicted          
+False      802  832
+True        48   18
+accuracy: 0.4823529411764706
+threshold:  0.928
+Actual       0    1
+Predicted          
+False      798  826
+True        52   24
+accuracy: 0.4835294117647059
+threshold:  0.929
+Actual       0    1
+Predicted          
+False      795  824
+True        55   26
+accuracy: 0.48294117647058826
+threshold:  0.93
+Actual       0    1
+Predicted          
+False      793  823
+True        57   27
+accuracy: 0.4823529411764706
+threshold:  0.931
+Actual       0    1
+Predicted          
+False      791  822
+True        59   28
+accuracy: 0.48176470588235293
+threshold:  0.932
+Actual       0    1
+Predicted          
+False      786  821
+True        64   29
+accuracy: 0.47941176470588237
+threshold:  0.933
+Actual       0    1
+Predicted          
+False      783  819
+True        67   31
+accuracy: 0.4788235294117647
+threshold:  0.934
+Actual       0    1
+Predicted          
+False      780  816
+True        70   34
+accuracy: 0.4788235294117647
+threshold:  0.935
+Actual       0    1
+Predicted          
+False      776  811
+True        74   39
+accuracy: 0.47941176470588237
+threshold:  0.936
+Actual       0    1
+Predicted          
+False      768  811
+True        82   39
+accuracy: 0.4747058823529412
+threshold:  0.937
+Actual       0    1
+Predicted          
+False      764  807
+True        86   43
+accuracy: 0.4747058823529412
+threshold:  0.9380000000000001
+Actual       0    1
+Predicted          
+False      762  803
+True        88   47
+accuracy: 0.4758823529411765
+threshold:  0.9390000000000001
+Actual       0    1
+Predicted          
+False      760  799
+True        90   51
+accuracy: 0.47705882352941176
+threshold:  0.9400000000000001
+Actual       0    1
+Predicted          
+False      756  793
+True        94   57
+accuracy: 0.47823529411764704
+threshold:  0.9410000000000001
+Actual       0    1
+Predicted          
+False      754  789
+True        96   61
+accuracy: 0.47941176470588237
+threshold:  0.9420000000000001
+Actual       0    1
+Predicted          
+False      745  782
+True       105   68
+accuracy: 0.47823529411764704
+threshold:  0.9430000000000001
+Actual       0    1
+Predicted          
+False      742  775
+True       108   75
+accuracy: 0.48058823529411765
+threshold:  0.9440000000000001
+Actual       0    1
+Predicted          
+False      737  767
+True       113   83
+accuracy: 0.4823529411764706
+threshold:  0.9450000000000001
+Actual       0    1
+Predicted          
+False      726  761
+True       124   89
+accuracy: 0.47941176470588237
+threshold:  0.9460000000000001
+Actual       0    1
+Predicted          
+False      716  757
+True       134   93
+accuracy: 0.4758823529411765
+threshold:  0.9470000000000001
+Actual       0    1
+Predicted          
+False      702  754
+True       148   96
+accuracy: 0.46941176470588236
+threshold:  0.9480000000000001
+Actual       0    1
+Predicted          
+False      695  739
+True       155  111
+accuracy: 0.47411764705882353
+threshold:  0.9490000000000001
+Actual       0    1
+Predicted          
+False      684  735
+True       166  115
+accuracy: 0.47
+threshold:  0.9500000000000001
+Actual       0    1
+Predicted          
+False      677  722
+True       173  128
+accuracy: 0.47352941176470587
+threshold:  0.9510000000000001
+Actual       0    1
+Predicted          
+False      668  708
+True       182  142
+accuracy: 0.4764705882352941
+threshold:  0.9520000000000001
+Actual       0    1
+Predicted          
+False      664  698
+True       186  152
+accuracy: 0.48
+threshold:  0.9530000000000001
+Actual       0    1
+Predicted          
+False      658  687
+True       192  163
+accuracy: 0.48294117647058826
+threshold:  0.9540000000000001
+Actual       0    1
+Predicted          
+False      642  672
+True       208  178
+accuracy: 0.4823529411764706
+threshold:  0.9550000000000001
+Actual       0    1
+Predicted          
+False      630  660
+True       220  190
+accuracy: 0.4823529411764706
+threshold:  0.9560000000000001
+Actual       0    1
+Predicted          
+False      621  638
+True       229  212
+accuracy: 0.49
+threshold:  0.9570000000000001
+Actual       0    1
+Predicted          
+False      612  626
+True       238  224
+accuracy: 0.49176470588235294
+threshold:  0.9580000000000001
+Actual       0    1
+Predicted          
+False      601  604
+True       249  246
+accuracy: 0.49823529411764705
+threshold:  0.9590000000000001
+Actual       0    1
+Predicted          
+False      587  583
+True       263  267
+accuracy: 0.5023529411764706
+threshold:  0.9600000000000001
+Actual       0    1
+Predicted          
+False      574  568
+True       276  282
+accuracy: 0.5035294117647059
+threshold:  0.9610000000000001
+Actual       0    1
+Predicted          
+False      566  546
+True       284  304
+accuracy: 0.5117647058823529
+threshold:  0.9620000000000001
+Actual       0    1
+Predicted          
+False      549  522
+True       301  328
+accuracy: 0.5158823529411765
+threshold:  0.9630000000000001
+Actual       0    1
+Predicted          
+False      537  502
+True       313  348
+accuracy: 0.5205882352941177
+threshold:  0.9640000000000001
+Actual       0    1
+Predicted          
+False      517  487
+True       333  363
+accuracy: 0.5176470588235295
+threshold:  0.9650000000000001
+Actual       0    1
+Predicted          
+False      499  461
+True       351  389
+accuracy: 0.5223529411764706
+threshold:  0.9660000000000001
+Actual       0    1
+Predicted          
+False      479  440
+True       371  410
+accuracy: 0.5229411764705882
+threshold:  0.9670000000000001
+Actual       0    1
+Predicted          
+False      464  416
+True       386  434
+accuracy: 0.528235294117647
+threshold:  0.9680000000000001
+Actual       0    1
+Predicted          
+False      444  386
+True       406  464
+accuracy: 0.5341176470588235
+threshold:  0.9690000000000001
+Actual       0    1
+Predicted          
+False      424  353
+True       426  497
+accuracy: 0.5417647058823529
+threshold:  0.9700000000000001
+Actual       0    1
+Predicted          
+False      410  324
+True       440  526
+accuracy: 0.5505882352941176
+threshold:  0.9710000000000001
+Actual       0    1
+Predicted          
+False      393  301
+True       457  549
+accuracy: 0.5541176470588235
+threshold:  0.9720000000000001
+Actual       0    1
+Predicted          
+False      375  281
+True       475  569
+accuracy: 0.5552941176470588
+threshold:  0.9730000000000001
+Actual       0    1
+Predicted          
+False      350  253
+True       500  597
+accuracy: 0.5570588235294117
+threshold:  0.9740000000000001
+Actual       0    1
+Predicted          
+False      333  221
+True       517  629
+accuracy: 0.5658823529411765
+threshold:  0.9750000000000001
+Actual       0    1
+Predicted          
+False      310  192
+True       540  658
+accuracy: 0.5694117647058824
+threshold:  0.9760000000000001
+Actual       0    1
+Predicted          
+False      292  171
+True       558  679
+accuracy: 0.5711764705882353
+threshold:  0.9770000000000001
+Actual       0    1
+Predicted          
+False      276  147
+True       574  703
+accuracy: 0.5758823529411765
+threshold:  0.9780000000000001
+Actual       0    1
+Predicted          
+False      255  136
+True       595  714
+accuracy: 0.57
+threshold:  0.9790000000000001
+Actual       0    1
+Predicted          
+False      232  114
+True       618  736
+accuracy: 0.5694117647058824
+threshold:  0.9800000000000001
+Actual       0    1
+Predicted          
+False      219   95
+True       631  755
+accuracy: 0.5729411764705883
+threshold:  0.9810000000000001
+Actual       0    1
+Predicted          
+False      200   81
+True       650  769
+accuracy: 0.57
+threshold:  0.9820000000000001
+Actual       0    1
+Predicted          
+False      182   65
+True       668  785
+accuracy: 0.5688235294117647
+threshold:  0.9830000000000001
+Actual       0    1
+Predicted          
+False      163   52
+True       687  798
+accuracy: 0.5652941176470588
+threshold:  0.9840000000000001
+Actual       0    1
+Predicted          
+False      133   45
+True       717  805
+accuracy: 0.5517647058823529
+threshold:  0.9850000000000001
+Actual       0    1
+Predicted          
+False      121   35
+True       729  815
+accuracy: 0.5505882352941176
+threshold:  0.9860000000000001
+Actual       0    1
+Predicted          
+False      105   30
+True       745  820
+accuracy: 0.5441176470588235
+threshold:  0.9870000000000001
+Actual       0    1
+Predicted          
+False       89   24
+True       761  826
+accuracy: 0.538235294117647
+threshold:  0.9880000000000001
+Actual       0    1
+Predicted          
+False       78   22
+True       772  828
+accuracy: 0.5329411764705883
+threshold:  0.9890000000000001
+Actual       0    1
+Predicted          
+False       68   12
+True       782  838
+accuracy: 0.5329411764705883
+threshold:  0.9900000000000001
+Actual       0    1
+Predicted          
+False       57    8
+True       793  842
+accuracy: 0.5288235294117647
+threshold:  0.9910000000000001
+Actual       0    1
+Predicted          
+False       45    7
+True       805  843
+accuracy: 0.5223529411764706
+threshold:  0.9920000000000001
+Actual       0    1
+Predicted          
+False       38    5
+True       812  845
+accuracy: 0.5194117647058824
+threshold:  0.9930000000000001
+Actual       0    1
+Predicted          
+False       32    5
+True       818  845
+accuracy: 0.5158823529411765
+threshold:  0.9940000000000001
+Actual       0    1
+Predicted          
+False       25    5
+True       825  845
+accuracy: 0.5117647058823529
+threshold:  0.9950000000000001
+Actual       0    1
+Predicted          
+False       22    3
+True       828  847
+accuracy: 0.5111764705882353
+threshold:  0.9960000000000001
+Actual       0    1
+Predicted          
+False       21    2
+True       829  848
+accuracy: 0.5111764705882353
+threshold:  0.9970000000000001
+Actual       0    1
+Predicted          
+False       19    0
+True       831  850
+accuracy: 0.5111764705882353
+threshold:  0.9980000000000001
+Actual       0    1
+Predicted          
+False       17    0
+True       833  850
+accuracy: 0.51
+threshold:  0.9990000000000001
+Actual       0    1
+Predicted          
+False       15    0
+True       835  850
+accuracy: 0.5088235294117647
+
+max:
+threshold:  0.9770000000000001
+accuracy: 0.5758823529411765
+Actual       0    1
+Predicted          
+False      276  147
+True       574  703

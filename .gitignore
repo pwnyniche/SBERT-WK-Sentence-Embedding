@@ -48,3 +48,6 @@ SentEval/data/downstream/SUBJ/subj.objective
 SentEval/data/downstream/SUBJ/subj.subjective
 SentEval/data/downstream/TREC/train_5500.label
 SentEval/data/downstream/TREC/TREC_10.label
+cache/
+*.arrow
+*.csv
