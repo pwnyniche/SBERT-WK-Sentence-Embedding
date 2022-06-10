@@ -31,7 +31,8 @@ args = Args(64,128,42,"binwang/bert-base-nli-stsb","ave_last_hidden",2,4,'sts', 
 # -----------------------------------------------
 # Set device
 # torch.cuda.set_device(2)
-device = torch.device("cuda", 1)
+# device = torch.device("cuda", 2)
+device = 'cpu'
 args.device = device
 
 # -----------------------------------------------
